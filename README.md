@@ -1,0 +1,2 @@
+# Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics
+This analysis explores customer spending patterns, revealing a strong income-spending correlation. High earners prefer web and catalog purchases, while lower earners rely on deals. RFM analysis highlights key buyers, suggesting opportunities for targeted marketing, loyalty programs, and optimized sales strategies to boost engagement and revenue.
